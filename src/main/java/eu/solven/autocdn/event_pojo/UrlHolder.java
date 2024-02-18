@@ -1,4 +1,4 @@
-package eu.solven.autocdn;
+package eu.solven.autocdn.event_pojo;
 
 import lombok.Value;
 

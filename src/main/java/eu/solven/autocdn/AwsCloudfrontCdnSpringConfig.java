@@ -18,6 +18,8 @@ import com.google.common.eventbus.AllowConcurrentEvents;
 import com.google.common.eventbus.EventBus;
 import com.google.common.eventbus.Subscribe;
 
+import eu.solven.autocdn.event_pojo.UrlContent;
+import eu.solven.autocdn.event_pojo.UrlHolder;
 import eu.solven.pepper.logging.PepperLogHelper;
 
 @Configuration
